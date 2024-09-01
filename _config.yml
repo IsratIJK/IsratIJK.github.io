@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Israt Jahan Khan"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Israt Jahan Khan"
 description              : &description "personal description"
 url                      : https://IsratIJK.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   avatar           : "Israt_Jahan_Khan.png"
   name             : "Israt Jahan Khan"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate Assistant | Researcher"
+  bio              : "Undergraduate Teaching Assistant | Researcher"
   location         : "Dhaka, Bangladesh"
   employer         : "United International University"
   uri              : # URL
